@@ -1,5 +1,5 @@
-# sdform-render
+# SdForm-Render
 SdFormRender basic version
 
-## SdForm Builder
+## SdForm-Builder
 click here https://sdform.takasila.org/
